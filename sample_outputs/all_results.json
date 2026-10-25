@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "file": "q1.wav",
+    "transcript": "can i return the swimsuit by today",
+    "reply_text": "I'm ZentroMart's AI assistant. Unfortunately, swimwear is in the innerwear category, which is not returnable, so I'm afraid you can't return the swimsuit even today. If it arrived damaged or wrong, that's a different case, so do let me know.",
+    "decision": "answer",
+    "retrieved_sources": [
+      "RET-2"
+    ],
+    "tool_calls": [
+      "search_kb(query=swimsuit apparel return window days)"
+    ],
+    "reply_audio": "q1.wav"
+  }
+]
