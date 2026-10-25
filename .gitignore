@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+_in.wav
+_reply.wav
+results_*.csv
+Capstone_Project_Dataset_FTTT_2026/
+dataset/
+.ipynb_checkpoints/

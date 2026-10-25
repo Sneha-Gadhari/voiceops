@@ -1,0 +1,8 @@
+openai
+python-dotenv
+scikit-learn
+pandas
+numpy
+streamlit
+jupyter
+gnani-vachana
