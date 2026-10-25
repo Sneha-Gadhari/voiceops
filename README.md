@@ -1,5 +1,5 @@
 # VoiceOps 2026 – ZentroMart Support Agent
-Public repo: <PASTE GITHUB URL>
+Public repo: https://github.com/Sneha-Gadhari/voiceops
 
 ## Install
 ```
